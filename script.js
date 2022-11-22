@@ -7,3 +7,5 @@ function getCatPic(){
       image.src = data.file  // sets source of image to the data of the api  
     })                                                  //in this case, the data is called "file" so use data.file
   }
+
+getCatPic()

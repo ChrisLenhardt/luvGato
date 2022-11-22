@@ -22,12 +22,22 @@ table, th, td{
 td{
     text-align: center;
 }
-
+body{
+	background-color: #ff4500;
+}
+p {
+	color: rgb(0,0,139);
+}
+h1{
+	color: white;
+	font-family: Arial;
+}
 
 /*
 All of the following is sourced from https://codepen.io/P1N2O/pen/pyBNzX
 it is not neccessary but it does make the button stand out
 */
+
 button {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
